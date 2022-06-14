@@ -1,0 +1,115 @@
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 60
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 195
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: search in /home/chotraic/public_html/header.php on line 231
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 9
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: minamount in /home/chotraic/public_html/Sanpham.php on line 20
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: maxamount in /home/chotraic/public_html/Sanpham.php on line 21
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/chotraic/public_html/Sanpham.php on line 26
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: minamount in /home/chotraic/public_html/Sanpham.php on line 98
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: maxamount in /home/chotraic/public_html/Sanpham.php on line 99
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 116
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 117
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 118
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:55:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: page in /home/chotraic/public_html/class/cls_product.php on line 137
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 60
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 195
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: search in /home/chotraic/public_html/header.php on line 231
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/Giohang.php on line 44
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 06:55:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 61
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 91
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 196
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 91
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: search in /home/chotraic/public_html/header.php on line 232
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 9
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: minamount in /home/chotraic/public_html/Sanpham.php on line 20
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: maxamount in /home/chotraic/public_html/Sanpham.php on line 21
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/chotraic/public_html/Sanpham.php on line 26
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: minamount in /home/chotraic/public_html/Sanpham.php on line 98
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: maxamount in /home/chotraic/public_html/Sanpham.php on line 99
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 116
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 117
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: order in /home/chotraic/public_html/Sanpham.php on line 118
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:58:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: page in /home/chotraic/public_html/class/cls_product.php on line 137
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 61
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 91
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 196
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 91
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: search in /home/chotraic/public_html/header.php on line 232
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/Giohang.php on line 44
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 91
+[17-Dec-2021 06:58:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 91
+[17-Dec-2021 07:08:40 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:08:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 61
+[17-Dec-2021 07:08:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header.php on line 196
+[17-Dec-2021 07:08:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:08:46 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:08:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:08:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:08:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:08:57 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:08:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:08:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:08:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:08:59 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:08:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:09:00 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:09:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:09:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:09:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:09:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:09:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:09:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:09:43] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:09:43] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:09:43] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:09:43] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:09:43] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:09:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/chotraic/public_html/class/cls_giohang.php on line 2
+[17-Dec-2021 07:09:45] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/header_index.php on line 60
+[17-Dec-2021 07:09:45] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:09:45] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/header_index.php on line 195
+[17-Dec-2021 07:09:45] PHP Notice:  Undefined index:  cart in /home/chotraic/public_html/class/cls_giohang.php on line 90
+[17-Dec-2021 07:09:45] PHP Fatal error:  Call to undefined function mysql_connect() in /home/chotraic/public_html/class/cls_product.php on line 6
+[17-Dec-2021 07:25:27 Asia/Ho_Chi_Minh] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/pdo_oci.so' - libclntsh.so.12.1: cannot open shared object file: No such file or directory in Unknown on line 0
